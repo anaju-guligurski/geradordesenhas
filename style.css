@@ -54,5 +54,5 @@ margin: 0 auto;
 }
 .parametro{
     background-color: var(--fundo-texto);
-    border: 2px solid;
+    border: 2px groove;
 }
