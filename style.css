@@ -62,7 +62,7 @@ body {
 }
 
 .parametro {
-    background-color: var(--fundo-texto);
+    background-color: var(--fundo-senha);
     border: 2px groove var(--borda);
     margin-top: 32px;
     padding: 24px;
