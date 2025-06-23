@@ -1,6 +1,6 @@
 @import url('https://fonts.googleapis.com/css2?family=New+Rocker&display=swap');
 :root{
---branco: rgb(0, 0, 0);
+--branco: rgb(255, 255, 255);
 --cor-de-fundo:hsl(295, 100%, 86%);
 --fundo-senha:#fb91ff;
 --fundo-texto:#7a7171;
