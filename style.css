@@ -54,5 +54,15 @@ margin: 0 auto;
 }
 .parametro{
     background-color: var(--fundo-texto);
-    border: 2px groove;
+    border: 2px groove var(--borda)
+margin-top: 32px;
+padding: 24px;
+}
+.parametro-enha_titulo{
+    font-size: 24px;
+}
+.parametro_coluna_senha{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
 }
